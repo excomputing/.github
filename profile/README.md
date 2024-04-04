@@ -5,6 +5,10 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 <br>
 <br>
 
+<details><summary><b>Executions Order</b></summary>
+
+<br>
+
 Acquiring, or re-acquiring, baseline/historical data
 
 ```mermaid
@@ -40,6 +44,8 @@ flowchart LR
     
     classDef default fill:#333333,stroke:#333333,stroke-width:0px,color:#ffffff,font-size:10pt;
 ```
+</details>
+
 
 <br>
 <br>
