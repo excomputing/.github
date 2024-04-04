@@ -13,6 +13,12 @@ This is **(a)** an illustrative investigation of Amazon Web Services for colleag
 
 <br>
 
+<table style="width: 85%; border: 0; border-spacing: 5px; margin-left: 15px">
+<colgroup>
+    <col span="1" style="width: 69.5%;">
+</colgroup>
+<tr><td>
+    
 Acquiring, or re-acquiring, baseline/historical data.
 
 ```mermaid
@@ -22,6 +28,10 @@ flowchart LR
     
     classDef default fill:#333333,stroke:#333333,stroke-width:0px,color:#ffffff,font-size:10pt;
 ```
+</td></tr>
+</table>
+
+
 
 <br>
 
