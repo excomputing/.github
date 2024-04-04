@@ -5,6 +5,10 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 <br>
 <br>
 
+This is **(a)** an illustrative investigation of Amazon Web Services for colleagues via particulates data, and **(b)** an exploration of the particulate data for a forecasting project.
+
+<br>
+
 <details><summary><b>Executions Order</b></summary>
 
 <br>
