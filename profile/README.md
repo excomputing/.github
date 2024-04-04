@@ -5,6 +5,18 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 <br>
 <br>
 
+Acquiring, or re-acquiring, baseline/historical data
+
+```mermaid
+flowchart LR   
+    id8([start]) --> id9(<span title="historical nitrogen readings">pollutants</span>)
+    id9 --> id10([END])
+    
+    classDef default fill:#333333,stroke:#333333,stroke-width:0px,color:#ffffff,font-size:10pt;
+```
+
+<br>
+
 The execution order of daily runs
 
 ```mermaid
