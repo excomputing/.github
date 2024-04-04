@@ -9,7 +9,7 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 
 <br>
 
-Acquiring, or re-acquiring, baseline/historical data
+Acquiring, or re-acquiring, baseline/historical data.
 
 ```mermaid
 flowchart LR   
@@ -21,7 +21,7 @@ flowchart LR
 
 <br>
 
-The execution order of daily runs
+The execution order of daily runs.
 
 ```mermaid
 flowchart LR   
@@ -34,7 +34,7 @@ flowchart LR
 
 <br>
 
-A GPU (graphics processing unit) based alternative
+The execution order of daily runs; a GPU (graphics processing unit) based alternative.
 
 ```mermaid
 flowchart LR   
