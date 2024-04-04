@@ -13,9 +13,9 @@ This is **(a)** an illustrative investigation of Amazon Web Services for colleag
 
 <br>
 
-<table style="width: 85%; border: 0; border-spacing: 5px; margin-left: 15px">
+<table style="width: 80%; border: 0; border-spacing: 5px; margin-left: 15px">
 <colgroup>
-    <col span="1" style="width: 69.5%;">
+    <col span="1" style="width: 80%;">
 </colgroup>
 <tr><td>
     
@@ -29,12 +29,9 @@ flowchart LR
     classDef default fill:#333333,stroke:#333333,stroke-width:0px,color:#ffffff,font-size:10pt;
 ```
 </td></tr>
-</table>
 
-
-
-<br>
-
+<tr><td>
+    
 The execution order of daily runs.
 
 ```mermaid
@@ -45,9 +42,11 @@ flowchart LR
     
     classDef default fill:#333333,stroke:#333333,stroke-width:0px,color:#ffffff,font-size:10pt;
 ```
+</td></tr>
 
-<br>
 
+<tr><td>
+    
 The execution order of daily runs; a GPU (graphics processing unit) based alternative.
 
 ```mermaid
@@ -58,6 +57,10 @@ flowchart LR
     
     classDef default fill:#333333,stroke:#333333,stroke-width:0px,color:#ffffff,font-size:10pt;
 ```
+</td></tr>
+
+</table>
+
 </details>
 
 
