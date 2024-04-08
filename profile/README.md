@@ -2,10 +2,7 @@
 
 Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
-<br>
-<br>
-
-This is **(a)** an illustrative investigation of Amazon Web Services for colleagues via pollutants data, and **(b)** an exploration of the pollutants data for a forecasting project.
+[READ ME](https://d29mim58jd41o6.cloudfront.net/)
 
 <br>
 
