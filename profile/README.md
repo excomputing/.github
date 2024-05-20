@@ -4,7 +4,7 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 
 [READ ME](https://d29mim58jd41o6.cloudfront.net/)
 
-Project Label: $prml_{_{1}}$
+Project Label: $prml_{1}$
 
 <br>
 <br>
