@@ -3,7 +3,7 @@ parameters:
   region_name_identifier: 'RegionCodeDefault'
   location_constraint: ''
   access_control_list: 'bucket-owner-full-control'
-  project_identifier: 'ComputatingSandbox'
+  project_identifier: 'ComputingSandbox'
   internal: ''
   path_internal_points: 'pollutants/points/'
   path_internal_references: 'pollutants/references/'
