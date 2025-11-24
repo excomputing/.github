@@ -1,6 +1,12 @@
+Orchestrate & Automate
+
+<a href="https://theartificialintelligenceunit.github.io/abstracts/sections/automation/" target="_blank">README</a>
+
+<br>
 <br>
 
-[Notes](https://d29mim58jd41o6.cloudfront.net/)
+<br>
+<br>
 
 <br>
 <br>
