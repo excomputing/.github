@@ -1,6 +1,6 @@
 Orchestrate & Automate
 
-<a href="https://theartificialintelligenceunit.github.io/abstracts/sections/automation/" target="_blank">README</a>
+<a href="https://theartificialintelligenceunit.github.io/abstracts/site/sections/automation/" target="_blank">README</a>
 
 <br>
 <br>
